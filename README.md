@@ -1,2 +1,2 @@
 My second readme
-Training to ba an SE
+How to be up to date in git
